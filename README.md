@@ -1,5 +1,5 @@
 # append_signed_pe
-Append custom data to signed pe file.
+Append custom data to signed pe file and DONOT DESTROY SIGNED STATUS.
 
 reference 
 [https://www.freebuf.com/vuls/113527.html](https://www.freebuf.com/vuls/113527.html)
